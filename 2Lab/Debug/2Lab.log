@@ -1,0 +1,11 @@
+﻿  2Lab.cpp
+C:\Users\ADMIN\Desktop\Работа в универе\ASD\2Lab — копия\2Lab\2Lab.cpp(118,7): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\ADMIN\Desktop\Работа в универе\ASD\2Lab — копия\2Lab\2Lab.cpp(83,26): warning C4101: ind: неиспользованная локальная переменная
+C:\Users\ADMIN\Desktop\Работа в универе\ASD\2Lab — копия\2Lab\2Lab.cpp(134,8): warning C4101: l3: неиспользованная локальная переменная
+C:\Users\ADMIN\Desktop\Работа в универе\ASD\2Lab — копия\2Lab\2Lab.cpp(133,10): warning C4101: l32: неиспользованная локальная переменная
+C:\Users\ADMIN\Desktop\Работа в универе\ASD\2Lab — копия\2Lab\2Lab.cpp(133,7): warning C4101: q: неиспользованная локальная переменная
+C:\Users\ADMIN\Desktop\Работа в универе\ASD\2Lab — копия\2Lab\2Lab.cpp(134,33): warning C4101: lz: неиспользованная локальная переменная
+C:\Users\ADMIN\Desktop\Работа в универе\ASD\2Lab — копия\2Lab\2Lab.cpp(134,24): warning C4101: l31: неиспользованная локальная переменная
+C:\Users\ADMIN\Desktop\Работа в универе\ASD\2Lab — копия\2Lab\2Lab.cpp(134,16): warning C4101: l4: неиспользованная локальная переменная
+C:\Users\ADMIN\Desktop\Работа в универе\ASD\2Lab — копия\2Lab\2Lab.cpp(230,20): warning C4018: <: несоответствие типов со знаком и без знака
+  2Lab.vcxproj -> C:\Users\ADMIN\Desktop\Работа в универе\ASD\2Lab — копия\Debug\2Lab.exe
